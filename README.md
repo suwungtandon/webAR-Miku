@@ -5,11 +5,17 @@ WebアプリでもMMDを踊らせたい
 ## Description
 Web上にてARマーカーを使ってミクさんを踊らせるためのサンプルプログラム
 
-Lat式ミクに"[地球最後の告白を](https://www5.atwiki.jp/hmiku/pages/22043.html)"を踊らせている
+Lat式ミクに"[地球最後の告白を](https://www5.atwiki.jp/hmiku/pages/22043.html)"を踊らせています
 
 ## Demo
+* Youtube
 
-URL
+    [![](https://img.youtube.com/vi/Gniowuje9W0/0.jpg)](https://www.youtube.com/watch?v=Gniowuje9W0)
+
+* デモサイト
+    
+    [https://momijinn.github.io/myWebAR_MMD/](https://momijinn.github.io/myWebAR_MMD/)
+
 
 ## Requirement
 * [three.js](https://threejs.org/)
@@ -24,7 +30,7 @@ URL
 
     ※上記のデモ用のURLではGoogleChromeでも開くことができます
 
-2. Hiroマーカーをカメラに向けるとミクが踊っている
+2. Hiroマーカーをカメラに向けるとミクが踊っています
 
 <br>
 
